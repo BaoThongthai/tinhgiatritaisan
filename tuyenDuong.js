@@ -7,7 +7,7 @@
     "nguyenchithanh":60,
     "phanchautrinh":70,
     "tieula":1000,
-    //"2.9":,
+    "2.9":2000,
     //"quangtrung":,
     //"dongda":,
     //"nguyendu":,
