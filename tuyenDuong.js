@@ -5,8 +5,8 @@
     "leloi":40,
     "3.2":50,
     "nguyenchithanh":60,
-    "phanchautrinh":70
-    //"tieula":,
+    "phanchautrinh":70,
+    "tieula":1000,
     //"2.9":,
     //"quangtrung":,
     //"dongda":,
