@@ -552,5 +552,6 @@
     "dongocdu": 20610000,
     "donhuan": 12690000,
     "dophapthuan": 43780000,
-    "doquang": 48160000
+    "doquang": 48160000,
+    "doquang2":24500000
 };
