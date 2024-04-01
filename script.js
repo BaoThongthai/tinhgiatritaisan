@@ -21,9 +21,10 @@ function dienGiaTriTrungBinh() {
     if (kiemTraTenDuong(selectedDuong)) { // Kiểm tra xem tên đường có hợp lệ không
         if (!isNaN(giaTriTrungBinh)) { // Kiểm tra xem giá trị trung bình có phải là số không
             giaTriTrungBinh *= 2.1; // Nhân giá trị trung bình với 2
+            
             giaTriInput.val(giaTriTrungBinh !== undefined ? giaTriTrungBinh : ""); // Điền giá trị trung bình vào ô input
         } else {
-            alert("Tuyến đường này có nhiều giá khác nhau tùy vị trí nên không đưa ra được giá cụ thể !");
+            alert(giaTriTrungBinhTheoDuong[duongKhongDau]);
         }
     }
 }
